@@ -2,6 +2,56 @@
 
 *Current version: 1.7.4*
 
+¡Claro! Vamos a desglosar lo que es PrivateBin y para qué sirve, de una manera sencilla.
+
+### ¿Qué es PrivateBin?
+
+PrivateBin es una aplicación web que permite a las personas compartir texto o código de manera segura y privada. Es como un bloc de notas en línea, pero con una característica especial: todo lo que escribes se encripta antes de enviarse al servidor. Esto significa que ni siquiera los administradores del servidor pueden ver lo que has escrito.
+
+### ¿Cómo funciona?
+
+1. **Escribes tu texto**: Puedes escribir cualquier cosa, desde notas personales hasta fragmentos de código.
+2. **Encriptación**: Antes de enviar tu texto al servidor, PrivateBin lo encripta en tu navegador usando un algoritmo de encriptación fuerte (AES de 256 bits).
+3. **Envío al servidor**: El texto encriptado se envía al servidor.
+4. **Compartir el enlace**: PrivateBin te da un enlace único que puedes compartir con otras personas. Este enlace contiene la clave de encriptación.
+5. **Desencriptación**: Cuando alguien abre el enlace, el texto se desencripta en su navegador, permitiéndoles ver lo que escribiste.
+
+### Características principales
+
+1. **Seguridad**: Todo lo que escribes está encriptado, por lo que solo las personas con el enlace pueden verlo.
+2. **Protección con contraseña**: Puedes añadir una contraseña adicional para mayor seguridad.
+3. **Expiración**: Puedes configurar cuánto tiempo quieres que el texto esté disponible, desde "para siempre" hasta "borrar después de leer".
+4. **Soporte de formato**: Puedes usar Markdown para formatear tu texto y también hay soporte para resaltado de sintaxis de código.
+5. **Traducciones**: La aplicación puede detectar automáticamente el idioma de tu navegador y mostrar la interfaz en tu idioma.
+
+### ¿Qué no hace?
+
+1. **Confianza en el administrador**: Aunque el texto está encriptado, tienes que confiar en que el administrador del servidor no haya modificado el código de PrivateBin para hacer algo malicioso.
+2. **Registros de acceso**: Los administradores del servidor pueden ser obligados a entregar registros de acceso a las autoridades, lo que podría revelar quién accedió a un texto específico.
+3. **Seguridad del servidor**: Si el servidor es comprometido, un atacante podría modificar el código para capturar las claves de encriptación cuando alguien accede a un texto.
+
+### Opciones adicionales
+
+PrivateBin tiene varias opciones que puedes habilitar o deshabilitar en el archivo de configuración:
+
+- Protección con contraseña
+- Disusiones anónimas o con seudónimos
+- Tiempos de expiración
+- Soporte de Markdown
+- Resaltado de sintaxis de código
+- Soporte de subida de archivos
+- Plantillas de diseño
+- Traducciones automáticas
+- Códigos QR para enlaces
+
+### Resumen
+
+PrivateBin es una herramienta muy útil para compartir texto o código de manera segura y privada. La encriptación asegura que solo las personas con el enlace puedan ver lo que has escrito, y hay muchas opciones adicionales para personalizar cómo funciona.
+
+Espero que esto te haya ayudado a entender mejor qué es PrivateBin y cómo funciona. ¡Si tienes más preguntas, no dudes en preguntar!
+
+----
+
 **PrivateBin** is a minimalist, open source online
 [pastebin](https://en.wikipedia.org/wiki/Pastebin)
 where the server has zero knowledge of pasted data.
