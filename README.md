@@ -2,8 +2,6 @@
 
 *Current version: 1.7.4*
 
-¡Claro! Vamos a desglosar lo que es PrivateBin y para qué sirve, de una manera sencilla.
-
 ### ¿Qué es PrivateBin?
 
 PrivateBin es una aplicación web que permite a las personas compartir texto o código de manera segura y privada. Es como un bloc de notas en línea, pero con una característica especial: todo lo que escribes se encripta antes de enviarse al servidor. Esto significa que ni siquiera los administradores del servidor pueden ver lo que has escrito.
@@ -47,8 +45,6 @@ PrivateBin tiene varias opciones que puedes habilitar o deshabilitar en el archi
 ### Resumen
 
 PrivateBin es una herramienta muy útil para compartir texto o código de manera segura y privada. La encriptación asegura que solo las personas con el enlace puedan ver lo que has escrito, y hay muchas opciones adicionales para personalizar cómo funciona.
-
-Espero que esto te haya ayudado a entender mejor qué es PrivateBin y cómo funciona. ¡Si tienes más preguntas, no dudes en preguntar!
 
 ----
 
